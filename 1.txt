@@ -1,1 +1,2 @@
+code cua thang 456-register
 code cua thang 123-login
