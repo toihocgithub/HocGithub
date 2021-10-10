@@ -1,2 +1,4 @@
 dong code 1
 dong code 2
+code cua thang 456-register
+code cua thang 123-login
